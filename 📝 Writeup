@@ -1,0 +1,41 @@
+🧠 Introduction
+
+In this room, I learned the basics of networking, which is a very important part of cybersecurity. Before learning hacking or security tools, understanding how networks work is essential. 🔐
+
+🌐 What is Networking?
+
+Networking means connecting multiple devices so they can communicate with each other. These devices share data using protocols.
+
+🧩 OSI Model Explained
+
+The OSI model helps us understand how data moves from one system to another. Each layer has a specific role, from sending raw bits to displaying data to the user.
+
+👉 Example: When you open a website, data passes through all 7 layers.
+
+🌍 TCP/IP Model
+
+This model is used in real-world networking. It combines multiple OSI layers into fewer layers, making it simpler and more practical.
+
+🔢 IP Addressing
+
+Every device on a network has an IP address. It works like a home address, helping data reach the correct destination.
+
+IPv4 → Limited addresses
+IPv6 → Large number of addresses
+🌐 DNS
+
+Instead of remembering IP addresses, we use domain names. DNS converts these names into IP addresses.
+
+👉 Without DNS, we would need to remember numbers instead of website names.
+
+🔌 Networking Devices
+Router → Connects different networks
+Switch → Connects devices in a network
+Firewall → Protects network from threats
+🚀 Conclusion
+
+This room helped me build a strong foundation in networking, which is essential for cybersecurity. Understanding these basics will help me move forward in ethical hacking and security analysis. 🔐
+
+⭐ Final Thoughts
+
+This was a great beginner-friendly room. Highly recommended for anyone starting their journey in cybersecurity! 💡
